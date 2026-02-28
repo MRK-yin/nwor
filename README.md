@@ -2,3 +2,8 @@
 
 
 <img width="1728" height="2304" alt="Your paragraph text" src="https://github.com/user-attachments/assets/b2162e7d-08aa-4d10-837e-5b4817916ddc" />
+
+
+
+
+![Algorithmic Interview Proficiency Roadmap](https://github.com/user-attachments/assets/63c632a1-dea2-4006-8bd2-77bcf6b11fac)
