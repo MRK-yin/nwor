@@ -1,4 +1,1 @@
-<img width="1484" height="122" alt="image" src="https://github.com/user-attachments/assets/63c632a1-dea2-4006-8bd2-77bcf6b11fac" /> make this a public github link
-
-
-https://github.com/MRK-yin/nwor/blob/e4a8cdf043cdf208fbc0e5bcdd4d0bf473c08dcc/README.md
+<img width="1728" height="2304" alt="Your paragraph text" src="https://github.com/user-attachments/assets/f17b81d7-c200-4a44-bf83-1143626f74e7" />
